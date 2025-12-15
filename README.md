@@ -84,6 +84,8 @@ RTL DIAGRAM
 
 TIMING DIAGRAM:
 
+![timing diagram](https://github.com/user-attachments/assets/2bb89437-d679-48df-bfe1-11a96a8ce25b)
+
 
 **RESULTS**
 
